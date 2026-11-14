@@ -31,10 +31,10 @@ It reads SAP data from exported files, not a live connection, and it is not a ch
 
 The live demo signs you in with a test account; no password needed.
 
-1. Open the [live demo](https://freshroots-demand-planning-demo.vercel.app). You land as Raghav, the demand planner.
-2. Start a **New Run** to get this week's reorder flags, each with the rule that fired and the AI's explanation.
-3. On **Review**, accept or reject a flag. A rejection asks for a reason.
-4. Switch role on the sign-in page to see the same week as procurement, the dashboard owner or the kill-switch owner.
+1. Open the [live demo](https://freshroots-demand-planning-demo.vercel.app). You land on **Review** as Raghav, the demand planner.
+2. Look at a flagged SKU: the rule that fired, the AI's explanation, and what accepting would do to stock cover and loss exposure.
+3. **Accept** or **Reject** it. Every rejection is logged with a reason.
+4. Press **Switch role** to see the same week as procurement, the dashboard owner or the kill-switch owner.
 
 ---
 
